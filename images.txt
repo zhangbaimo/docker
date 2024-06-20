@@ -3,4 +3,4 @@ lscr.io/linuxserver/fail2ban:latest
 vaultwarden/server:latest
 ghcr.io/wg-easy/wg-easy
 xhofe/alist:latest
-
+adguard/adguardhome
